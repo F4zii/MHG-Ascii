@@ -4,7 +4,7 @@ An ASCII-Based Game about the known show "Money Heist"
 
 
 
-The rules are very simple:
+# The rules are very simple:
 
 
 0. The professor name must end with a '!'.
