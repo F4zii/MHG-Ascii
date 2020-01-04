@@ -1,5 +1,5 @@
 # MGH
-An ASCII-Based Game about the known show "Money Heist"
+An ASCII-Based Game about the known tv-show "Money Heist"
 
 
 
